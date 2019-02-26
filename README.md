@@ -1,8 +1,5 @@
 # Hello-World
 
-## Authors
-- [Daniel Muchiri](https://github.com/daydroidmuchiri)
-
 ## Author's Section
 - [Anthony Njuguna](https://github.com/Antavio)
 - Add your clickable username here. It should point to your GitHub account.
